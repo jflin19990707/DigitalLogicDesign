@@ -1,0 +1,12 @@
+[Inputs]
+clk
+rst
+ps2_clk
+ps2_data
+[Outputs]
+ready
+=data_out[9:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel ps2_ver2
+

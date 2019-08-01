@@ -1,0 +1,2 @@
+vhdtdtfi -lib work H:/digit/Project/Airplane/ps2_ver2.v -lang verilog -prj Airplane -o ps2_ver2.spl -module ps2_ver2 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 ps2_ver2.spl H:/digit/Project/Airplane/ps2_ver2.sym 

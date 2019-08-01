@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=D:\Project\Airplane\impact.xsl
+OUTFILE=D:\Project\Airplane\impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=D:\Project\Airplane
+LICENSE=iMPACT
+USER_INFO=iMPACT

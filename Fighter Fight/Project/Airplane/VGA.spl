@@ -1,0 +1,17 @@
+[Inputs]
+clk
+rst
+=Din[11:0]=
+[Outputs]
+read
+HS
+VS
+=row[9:0]=
+=col[9:0]=
+=R[3:0]=
+=G[3:0]=
+=B[3:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel VGA
+

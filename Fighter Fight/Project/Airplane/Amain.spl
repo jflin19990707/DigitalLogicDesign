@@ -1,0 +1,14 @@
+[Inputs]
+clk_25
+reset
+vs
+=Dir[3:0]=
+=x[9:0]=
+=y[9:0]=
+[Outputs]
+over
+=RGB[11:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel Amain
+
